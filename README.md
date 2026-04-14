@@ -1,10 +1,10 @@
-# 🤖 AI Order Management Agent
+# AI Order Management Agent
 
 ### (Telegram + n8n + AI + Excel Automation)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an **AI-powered order management system** that automates customer interaction and inventory handling using a Telegram bot.
 
@@ -12,7 +12,7 @@ The system is built using **n8n workflow automation** and integrates AI to intel
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * 📩 **Order Collection via Telegram**
   Users can place orders directly through a Telegram bot
